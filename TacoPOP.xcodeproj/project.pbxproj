@@ -16,6 +16,7 @@
 		93B4AE4B1E01779600EE623C /* DropShadow.swift in Sources */ = {isa = PBXBuildFile; fileRef = 93B4AE4A1E01779600EE623C /* DropShadow.swift */; };
 		93B4AE4D1E01798700EE623C /* HeaderView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 93B4AE4C1E01798700EE623C /* HeaderView.swift */; };
 		93B4AE4F1E017FB200EE623C /* Taco.swift in Sources */ = {isa = PBXBuildFile; fileRef = 93B4AE4E1E017FB200EE623C /* Taco.swift */; };
+		93B4AE511E01866900EE623C /* DataService.swift in Sources */ = {isa = PBXBuildFile; fileRef = 93B4AE501E01866900EE623C /* DataService.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -42,6 +43,7 @@
 		93B4AE4A1E01779600EE623C /* DropShadow.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DropShadow.swift; sourceTree = "<group>"; };
 		93B4AE4C1E01798700EE623C /* HeaderView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = HeaderView.swift; sourceTree = "<group>"; };
 		93B4AE4E1E017FB200EE623C /* Taco.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Taco.swift; sourceTree = "<group>"; };
+		93B4AE501E01866900EE623C /* DataService.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DataService.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -125,6 +127,7 @@
 			isa = PBXGroup;
 			children = (
 				93B4AE4E1E017FB200EE623C /* Taco.swift */,
+				93B4AE501E01866900EE623C /* DataService.swift */,
 			);
 			name = Model;
 			sourceTree = "<group>";
@@ -259,6 +262,7 @@
 				93B4AE231E016BAB00EE623C /* AppDelegate.swift in Sources */,
 				93B4AE4B1E01779600EE623C /* DropShadow.swift in Sources */,
 				93B4AE491E016EA900EE623C /* MainVC.swift in Sources */,
+				93B4AE511E01866900EE623C /* DataService.swift in Sources */,
 				93B4AE4F1E017FB200EE623C /* Taco.swift in Sources */,
 				93B4AE4D1E01798700EE623C /* HeaderView.swift in Sources */,
 			);
